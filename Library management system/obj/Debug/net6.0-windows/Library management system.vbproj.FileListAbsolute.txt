@@ -28,3 +28,6 @@ C:\Users\HP\source\repos\Library management system\Library management system\obj
 C:\Users\HP\source\repos\Library management system\Library management system\obj\Debug\net6.0-windows\Library management system.pdb
 C:\Users\HP\source\repos\Library management system\Library management system\obj\Debug\net6.0-windows\Library management system.genruntimeconfig.cache
 C:\Users\HP\source\repos\Library management system\Library management system\obj\Debug\net6.0-windows\ref\Library management system.dll
+C:\Users\HP\source\repos\Library management system\Library management system\obj\Debug\net6.0-windows\Library_management_system.Form2.resources
+C:\Users\HP\source\repos\Library management system\Library management system\obj\Debug\net6.0-windows\Library_management_system.Form3.resources
+C:\Users\HP\source\repos\Library management system\Library management system\obj\Debug\net6.0-windows\Library_management_system.Form4.resources
